@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-put elevator pitch here
+Our application will allow event creators to post information about their upcoming events. They will also be able to edit them if needed. Then, our users will be able to search and filter through events to find events aligned with their interests. We will provide a map view of events, or a list from the filtered search.
 
 ### Features
 Create Event: Users will be able to input information (Name, Date, Description, Location, Cost) which will be saved to our database.  
